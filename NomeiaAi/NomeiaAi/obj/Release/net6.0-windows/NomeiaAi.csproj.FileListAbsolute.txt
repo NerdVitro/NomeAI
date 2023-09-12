@@ -1,0 +1,17 @@
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\bin\Release\net6.0-windows\NomeiaAi.exe
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\bin\Release\net6.0-windows\NomeiaAi.deps.json
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\bin\Release\net6.0-windows\NomeiaAi.runtimeconfig.json
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\bin\Release\net6.0-windows\NomeiaAi.dll
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\bin\Release\net6.0-windows\NomeiaAi.pdb
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.csproj.AssemblyReference.cache
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.FrmNomeiaAi.resources
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.csproj.GenerateResource.cache
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.AssemblyInfoInputs.cache
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.AssemblyInfo.cs
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.csproj.CoreCompileInputs.cache
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.dll
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\refint\NomeiaAi.dll
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.pdb
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\NomeiaAi.genruntimeconfig.cache
+D:\Repositórios GitHub\NomeAI\NomeiaAi\NomeiaAi\obj\Release\net6.0-windows\ref\NomeiaAi.dll

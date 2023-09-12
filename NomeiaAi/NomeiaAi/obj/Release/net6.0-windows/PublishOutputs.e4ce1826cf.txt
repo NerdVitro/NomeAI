@@ -1,0 +1,5 @@
+C:\Users\Second User\Desktop\Teste\NomeiaAi.exe
+C:\Users\Second User\Desktop\Teste\NomeiaAi.dll
+C:\Users\Second User\Desktop\Teste\NomeiaAi.deps.json
+C:\Users\Second User\Desktop\Teste\NomeiaAi.runtimeconfig.json
+C:\Users\Second User\Desktop\Teste\NomeiaAi.pdb
